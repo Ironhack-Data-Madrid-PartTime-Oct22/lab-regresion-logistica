@@ -43,7 +43,7 @@ Datos: El conjunto de datos consta de información sobre 18,000 clientes actuale
 ## Exploración de datos
 Se recomienda comprender a fondo los datos y tomar las medidas necesarias para preparar los datos para el modelado antes de construir modelos exploratorios o predictivos. Como se trata de un modelo de clasificación, se debe utilizar la regresión logística para la clasificación al construir un modelo.
 
-Para explorar los datos, se pueden utilizar las técnicas que se han discutido en clase. Algunas de ellas incluyen el uso del método "describe", comprobar los valores nulos, utilizar matplotlib y _seaborn
+Para explorar los datos, se pueden utilizar las técnicas que se han discutido en clase. Algunas de ellas incluyen el uso del método "describe", comprobar los valores nulos, utilizar matplotlib y seaborn
 
 
 Los datos tienen varias variables categóricas y numéricas. Es importante explorar la naturaleza de los datos para estas variables antes de comenzar con el proceso de limpieza y preprocesamiento de datos (escalado de variables numéricas y codificación de variables categóricas).
